@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"ManyPrograms/controllers"
+	"201221ManyPrograms/controllers"
 	"github.com/astaxie/beego"
 )
 

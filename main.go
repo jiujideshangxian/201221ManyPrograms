@@ -1,11 +1,13 @@
 package main
 
 import (
-	_ "ManyPrograms/routers"
+	_ "201221ManyPrograms/routers"
+	"fmt"
 	"github.com/astaxie/beego"
 )
 
 func main() {
 	beego.Run()
+    fmt.Println("hello world")
 }
 
